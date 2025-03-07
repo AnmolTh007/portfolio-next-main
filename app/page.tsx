@@ -7,6 +7,7 @@ import TechStack from "./components/tech-stack"
 import AboutSection from "./components/about-section"
 
 export default function Home() {
+    
   return (
     <div className="min-h-screen bg-background relative overflow-hidden">
       <div className="absolute inset-0 w-full h-full bg-gradient-to-br from-primary/20 via-background to-secondary/20 animate-gradient-xy" />
@@ -32,9 +33,11 @@ export default function Home() {
                 </Link>
               </nav>
             </div>
-            <Button variant="outline" className="ml-auto">
-              Resume
-            </Button>
+            <Button variant="outline" size="lg" className="ml-auto">
+            <a href="https://drive.google.com/file/d/1Fq7Yq3gHmPSQBs-5Laz0GLziRJmIIH4l/view?usp=sharing" target="_blank" className="btn btn-outline ml-auto">
+      Resume
+    </a>
+    </Button>
           </div>
         </header>
 
