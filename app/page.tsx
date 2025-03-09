@@ -103,21 +103,21 @@ export default function Home() {
                   title="E-commerce Platform"
                   description="A full-stack e-commerce platform built with Next.js, Prisma, and Stripe integration."
                   image="/ecom.webp"
-                  link="https://github.com"
+                  link="https://github.com/AnmolTh007"
                   tags={["Next.js", "Prisma", "Stripe"]}
                 />
                 <ProjectCard
                   title="Task Management App"
                   description="A real-time task management application with team collaboration features."
                   image="/Task.webp"
-                  link="https://github.com"
+                  link="https://github.com/AnmolTh007"
                   tags={["React", "Node.js", "Socket.io"]}
                 />
                 <ProjectCard
                   title="AI Chat Interface"
                   description="An AI-powered chat interface with natural language processing capabilities."
                   image="/chat.jpg"
-                  link="https://github.com"
+                  link="https://github.com/AnmolTh007"
                   tags={["OpenAI", "Next.js", "TailwindCSS"]}
                 />
               </div>
@@ -178,12 +178,12 @@ export default function Home() {
                 <h3 className="text-lg font-semibold">Connect</h3>
                 <ul className="space-y-2">
                   <li>
-                    <Link href="https://github.com" className="text-sm text-muted-foreground hover:text-primary">
+                    <Link href="https://github.com/AnmolTh007" className="text-sm text-muted-foreground hover:text-primary">
                       GitHub
                     </Link>
                   </li>
                   <li>
-                    <Link href="https://linkedin.com" className="text-sm text-muted-foreground hover:text-primary">
+                    <Link href="https://www.linkedin.com/in/anmol-thakur-505a531b0/" className="text-sm text-muted-foreground hover:text-primary">
                       LinkedIn
                     </Link>
                   </li>
