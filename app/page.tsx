@@ -107,11 +107,11 @@ export default function Home() {
                   tags={["Next.js", "Prisma", "Stripe"]}
                 />
                 <ProjectCard
-                  title="Task Management App"
-                  description="A real-time task management application with team collaboration features."
+                  title="SocialDevs"
+                  description="A real-time Discussion platform for developers to share ideas and collaborate."
                   image="/Task.webp"
                   link="https://github.com/AnmolTh007"
-                  tags={["React", "Node.js", "Socket.io"]}
+                  tags={["React", "Supabase", "Socket.io"]}
                 />
                 <ProjectCard
                   title="AI Chat Interface"
