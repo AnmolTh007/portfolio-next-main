@@ -101,24 +101,24 @@ export default function Home() {
               <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
                 <ProjectCard
                   title="E-commerce Platform"
-                  description="A full-stack e-commerce platform built with Next.js, Prisma, and Stripe integration."
+                  description="A full-stack e-commerce platform built with Spring Boot, Typescript, and Stripe integration."
                   image="/ecom.webp"
-                  link="https://github.com/AnmolTh007"
-                  tags={["Next.js", "Prisma", "Stripe"]}
+                  link="https://github.com/AnmolTh007/ecommerce-microservices-main"
+                  tags={["Spring Boot", "Typescript", "ReactJs"]}
                 />
                 <ProjectCard
                   title="SocialDevs"
                   description="A real-time Discussion platform for developers to share ideas and collaborate."
                   image="/Task.webp"
-                  link="https://github.com/AnmolTh007"
+                  link="https://github.com/AnmolTh007/socialDevs"
                   tags={["React", "Supabase", "Socket.io"]}
                 />
                 <ProjectCard
-                  title="AI Chat Interface"
-                  description="An AI-powered chat interface with natural language processing capabilities."
+                  title="CineView"
+                  description="Review and rate movies you watch."
                   image="/chat.jpg"
-                  link="https://github.com/AnmolTh007"
-                  tags={["OpenAI", "Next.js", "TailwindCSS"]}
+                  link="https://github.com/AnmolTh007/cineview"
+                  tags={["ReactJs", "Next.js", "TailwindCSS"]}
                 />
               </div>
             </div>
