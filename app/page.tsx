@@ -34,7 +34,7 @@ export default function Home() {
               </nav>
             </div>
             <Button variant="outline" size="lg" className="ml-auto">
-            <a href="https://drive.google.com/file/d/1Fq7Yq3gHmPSQBs-5Laz0GLziRJmIIH4l/view?usp=sharing" target="_blank" className="btn btn-outline ml-auto">
+            <a href="https://drive.google.com/file/d/1VuuVecltvalIixtAb55ZC9GCNqLupNu3/view?usp=drive_link" target="_blank" className="btn btn-outline ml-auto">
       Resume
     </a>
     </Button>
